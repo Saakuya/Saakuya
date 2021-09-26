@@ -1,4 +1,4 @@
-## Olá! Eu sou a Amanda, se peferir pode me chamar de Say!
+## Olá! Eu sou a Amanda, se preferir pode me chamar de Say!
 
 - 🔭 Estudante de Front-End à procura de um trabalho
 - 🌱 Estou aprimorando meus conhecimentos de HMTL, CSS & JS
