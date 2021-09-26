@@ -3,7 +3,6 @@
 - 🔭 Estudante de Front-End à procura de um trabalho
 - 🌱 Estou aprimorando meus conhecimentos de HMTL, CSS & JS
 - 📫 Contate-me no email: contatossay@gmail.com
-- 😄 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/saakuya">
